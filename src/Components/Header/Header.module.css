@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 70px;
+    margin: 20px;
+}
+.header{
+    color: navy;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-top: 10px;
+    border-bottom: solid 1px cadetblue;
+}
+
+
+

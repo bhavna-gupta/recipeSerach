@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  padding: 20px;
+  margin: 20px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.searchBox {
+  width: 40vw;
+  height: 38px;
+  margin-top: 10px;
+  font-size: medium;
+  font-family: monospace;
+  color: #050505;
+  text-transform: uppercase;
+  background: lavenderblush;
+  text-align: center;
+}
+
+.modalBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.searchDiv {
+  display: inline-flex;
+  align-items: center;
+}
+
+.favoriteLink {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  height: 27px;
+  margin-top: 12px;
+  padding: 10px;
+  font-family: cursive;
+  color: black;
+  margin-left: 10px;
+  border: 1px solid black;
+}
