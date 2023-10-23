@@ -3,16 +3,16 @@
 ## Demo
 
 ### Home
-<img src="/public/Home.jpeg">
+![alt text](public/Home.jpeg)
 
 ### View
-<img src="/public/View.jpeg">
+![alt text](public/View.jpeg)
 
 ### Search Recipe
-<img src="/public/Search.jpeg">
+![alt text](public/Search.jpeg)
 
 ### Favorite
-<img src="/public/Favoirate.jpeg">
+![alt text](public/Favoirate.jpeg)
 
 
 ## Features
