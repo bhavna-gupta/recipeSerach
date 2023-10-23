@@ -148,11 +148,12 @@ const RecipeListContainer = () => {
                                         );
                                     })}</div>
                                     <h2 style={{color: "brown"}}>Cooking Instructions</h2>
-                                    <div>{(x.recipe.ingredientLines).map((ingre, index) => {
-                                        return (
-                                            <li key={index}>{ingre}</li>
-                                        );
-                                    })}</div>
+                                    
+                                    <Button variant="warning" href={x.recipe.url}>on {x.recipe.source}</Button>
+                                    
+                                    <div>
+                                    
+                                    </div>
                                     
                                 </div>
                             </Modal.Body>
